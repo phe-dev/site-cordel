@@ -1,2 +1,2 @@
 # site-cordel
-Criado site sobre cordel com efeito parallax de Milton duarte
+Criado um site sobre cordel com efeito parallax.
